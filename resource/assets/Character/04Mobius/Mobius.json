@@ -1,0 +1,12 @@
+﻿{
+"id":4,
+"name":"Mobius",
+"oriHP":450,"maxHP":1270,
+"oriMP":80,"maxMP":200,
+"oriAttack":500,"maxAttack":1360,
+"oriCure":100,"maxCure":190,
+"oriSpeed":40,"maxSpeed":70,
+"oriElement":4,
+"lskill":"光属性HP上升30%，攻击力上升50%",
+"skill":"将所有水属性珠子变为光属性","skillcost":60,"skillname":"光之结界",
+"profile":"独自一人生活在森林中的高塔里，双目失明，共享着猫头鹰魔宠的视野，但同时也无法分辨蓝以外的颜色。为了寻找不辞而别的恩人而踏上旅途。"}

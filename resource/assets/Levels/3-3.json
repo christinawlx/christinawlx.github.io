@@ -1,0 +1,14 @@
+﻿{
+  "no1":2,
+  "no2":2,
+  "exp":200,
+  "cexp":70,
+  "energy":2,
+  "bg":"bg3",
+  "bonus":-1,
+  "bonusChance":0,
+  "enemys":
+  [
+    [{"name":"Lance","level":1,"element":3}]
+  ]
+}

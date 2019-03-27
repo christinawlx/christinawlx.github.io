@@ -1,0 +1,12 @@
+﻿{
+"id":13,
+"name":"Eisa",
+"oriHP":550,"maxHP":945,
+"oriMP":60,"maxMP":180,
+"oriAttack":500,"maxAttack":858,
+"oriCure":149,"maxCure":200,
+"oriSpeed":45,"maxSpeed":90,
+"oriElement":2,
+"lskill":"水属性攻击变为1.3倍，mp变为1.5倍",
+"skill":"3回合内，少量增加水属性珠子掉率","skillcost":70,"skillname":"波澜",
+"profile":"生活在浅海的精灵，性格天真而任性。一直对岸边居民污染海水的行为有着不满，因此心情不好时会在海上卷起巨浪，给他们造成麻烦。"}

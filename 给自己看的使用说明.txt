@@ -1,0 +1,2 @@
+这个是git push origin 1或者2，不是master，填master push不上去
+不行的话试试git commit -am

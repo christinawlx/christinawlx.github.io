@@ -1,0 +1,12 @@
+﻿{
+"id":9,
+"name":"Arise",
+"oriHP":400,"maxHP":990,
+"oriMP":20,"maxMP":60,
+"oriAttack":450,"maxAttack":850,
+"oriCure":20,"maxCure":50,
+"oriSpeed":20,"maxSpeed":70,
+"oriElement":2,
+"lskill":"水属性HP、攻击力变为1.2倍",
+"skill":"5回合内，减少10%的伤害","skillcost":150,"skillname":"冰盾",
+"profile":"一名普通的站街男子，散发着冷艳的气息。似乎不太喜欢笑。"}

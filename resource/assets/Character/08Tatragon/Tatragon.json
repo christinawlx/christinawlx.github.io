@@ -1,0 +1,12 @@
+﻿{
+"id":8,
+"name":"Tatragon",
+"oriHP":730,"maxHP":1280,
+"oriMP":40,"maxMP":80,
+"oriAttack":350,"maxAttack":1050,
+"oriCure":20,"maxCure":50,
+"oriSpeed":25,"maxSpeed":75,
+"oriElement":3,
+"lskill":"风属性攻击力变为1.5倍，速度变为1.2倍",
+"skill":"3回合内，速度变为2倍","skillcost":125,"skillname":"风旋",
+"profile":"沉默寡言的少年，时常露出茫然的神色。因为某种原因失去了记忆，但由于自我保护的本能，并不想将这一点表现出来。为了寻找自己的过去而踏上旅途。"}

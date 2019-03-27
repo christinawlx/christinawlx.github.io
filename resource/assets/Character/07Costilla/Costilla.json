@@ -1,0 +1,12 @@
+﻿{
+"id":7,
+"name":"Costilla",
+"oriHP":730,"maxHP":1280,
+"oriMP":40,"maxMP":100,
+"oriAttack":440,"maxAttack":1110,
+"oriCure":69,"maxCure":188,
+"oriSpeed":40,"maxSpeed":105,
+"oriElement":2,
+"lskill":"水属性攻击力变为2倍",
+"skill":"所有木属性珠子变为水属性","skillcost":100,"skillname":"清泉",
+"profile":"住在森林里，对于鸟类有着特别的兴趣。长着两只毛茸茸的耳朵，看样子本体应该不是人类。一般情况下温和无害，但在愤怒时会爆发出惊人的力量。"}

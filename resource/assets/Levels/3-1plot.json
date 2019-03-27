@@ -1,0 +1,101 @@
+﻿[
+  {
+    "bg":"bg3",
+    "plot":
+    [
+      {"speaker":"","image":[],"pos":[],"text":"   【东方小镇 尤非】"},
+
+      {"speaker":"Savino","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"你终于醒了。"},
+
+      {"speaker":"default","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"……这是哪儿？我们之前不是在沙漠里么？"},
+
+      {"speaker":"Savino","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"这里是东方小镇尤非，地图上弑神者之墓的位置在东方的伊西斯之海，这几天我们一直在向东走。抱歉啊，因为你一直昏迷，虽然我们不确定你想去哪儿，还是自作主张把你也带上了。 "},
+
+      {"speaker":"default","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"没事的，应该是我谢谢你们这几天照顾我。"},
+	  
+	  {"speaker":"Karine","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"说起来你朋友到底什么来历啊？你晕倒的时候他的周围全是黑烟，我觉得不太对，朝他开了三枪，居然一点效果也没有。后来他就一个人在沙漠里走远了。"},
+	  
+	  {"speaker":"default","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"我……不知道。那不是我认识的Charlotte，他的眼睛好可怕。"},
+	  
+	   {"speaker":"Savino","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"那接下来你准备怎么办？要不要继续跟我们一起冒险？一路上也可以打探你朋友的消息。"},
+	   
+	   {"speaker":"default","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"好啊。反正……我现在也不知道该去哪儿了。"},
+	   
+	   {"speaker":"Savino","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"好啦default，别再闷闷不乐啦，我们去四处逛逛散散心。这个镇子上看起来有很多有趣的东西。"},
+	   
+	   {"speaker":"","image":[],"pos":[],"text":"（一个小时过后）"},
+	   
+	   {"speaker":"Savino","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"果然很好玩！卡琳你手里拿的什么？"},
+	   
+	   {"speaker":"Karine","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"是酒啦。听说尤非镇的葡萄酒很有名，早就想尝尝了。"},
+	   
+	   {"speaker":"Savino","image":["KarineChat2","SavinoChat3"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"我还没喝过酒呢，给我试试可以吗？"},
+	   
+	   {"speaker":"Karine","image":["KarineChat2","SavinoChat3"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"好……喂你慢点！一下灌那么多会醉的！"},
+	   
+	   {"speaker":"default","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"我也想试试！"},
+	   
+	   {"speaker":"Karine","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"你还是算了吧，小孩子不能喝酒。"},
+	   
+	   {"speaker":"Savino","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"Karine你不要总是装出一副大人的样子啦，你自己不是跟我一样只有19岁吗？"},
+	   
+	   {"speaker":"Karine","image":["KarineChat3","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"你才奇怪吧，明明19了，还跟default一样像个小孩子似的。"},
+	   
+	   {"speaker":"Karine","image":["KarineChat5","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"不过，或许像你这样才是正常的吧。至于我……"},
+	   
+	   {"speaker":"default","image":["KarineChat5","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"咦？前面那个不是在沙漠里遇到的长发男人么？他好像被人围住了！"},
+	   
+	   {"speaker":"Karine","image":["KarineChat7","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"他么？正好，上次还有事想问他，我们过去看看。"},
+	   
+	   {"speaker":"","image":[],"pos":[],"text":"（走近，只见长发男人和一个中年妇人被一群恶霸围在中央。）"},
+	   
+	   {"speaker":"恶霸A","image":[],"pos":[],"text":"快点，你们两个的保护费呢？"},
+	   
+	   {"speaker":"中年妇人","image":[],"pos":[],"text":"求求你放过我吧，我家里是真的没有钱了！"},
+	   
+	   {"speaker":"恶霸A","image":[],"pos":[],"text":"老子才不信你的鬼话！你们翻她身上！还有你，那个长头发的，把身上的钱交出来！"},
+	   
+	   {"speaker":"长发男子","image":["LanceChat1"],"pos":[{"x":0,"y":0}],"text":"……"},
+	   
+	   {"speaker":"恶霸A","image":["LanceChat1"],"pos":[{"x":0,"y":0}],"text":"你聋了吗？信不信老子一刀砍死——啊！"},
+	   
+	   {"speaker":"","image":["LanceChat1"],"pos":[{"x":0,"y":0}],"text":"（长发男子徒手抓住恶霸A的刀，将他整个人甩出几米远。）"},
+	   
+	   {"speaker":"长发男子","image":["LanceChat2"],"pos":[{"x":0,"y":0}],"text":"别挡我的路。"},
+	   
+	   {"speaker":"","image":["LanceChat2"],"pos":[{"x":0,"y":0}],"text":"（其他恶霸顿时被吓得不敢动。惊魂未定的妇人连忙躲到长发男子身后。）"},
+	   
+	   {"speaker":"中年妇人","image":["LanceChat2"],"pos":[{"x":0,"y":0}],"text":"好心人，求你救救我吧！"},
+	   
+	   {"speaker":"长发男子","image":["LanceChat1"],"pos":[{"x":0,"y":0}],"text":"……他们做什么，我懒得管。"},
+	   
+	   {"speaker":"","image":[],"pos":[],"text":"（说罢，长发男子转身就走。恶霸们怔了片刻，然后马上恢复了嚣张的神态，再次围住妇人。）"},
+	   
+	   {"speaker":"Karine","image":["KarineChat7","SavinoChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"这家伙……莫名让人不爽。"},
+	   
+	   {"speaker":"Savino","image":["KarineChat7","SavinoChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"我们去帮帮那个妇人吧。"},
+	   
+	   {"speaker":"Karine","image":["KarineChat7","SavinoChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"不用你说我也会出手的。"},
+	   
+	    {"speaker":"Karine","image":["KarineChat7","SavinoChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"喂，你们几个放开她！"}
+    ]
+  },
+  {
+    "bg":"bg3",
+    "plot":
+    [
+      {"speaker":"妇人","image":[],"pos":[],"text":"   谢谢你们！"},
+
+      {"speaker":"Savino","image":["KarineChat2","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"这是你被抢走的东西，快收好吧。"},
+
+      {"speaker":"Karine","image":["KarineChat7","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"我有事找那个长发男人，你们先回旅馆去吧。"},
+	  
+	  {"speaker":"default","image":["KarineChat7","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"找他？为什么？"},
+	  
+	  {"speaker":"Karine","image":["KarineChat7","SavinoChat2"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"……他让我想起一个人。这与你们无关，我先走了。"},
+	  {"speaker":"Savino","image":["SavinoChat1"],"pos":[{"x":0,"y":0}],"text":"Karine看起来有点儿奇怪。"},
+	  {"speaker":"default","image":["SavinoChat1"],"pos":[{"x":0,"y":0}],"text":"我也觉得，还是跟上去看看吧。"}
+    ]
+  }
+]
+

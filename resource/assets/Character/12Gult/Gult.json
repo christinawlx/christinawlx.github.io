@@ -1,0 +1,13 @@
+﻿{
+"id":12,
+"name":"Gult",
+"oriHP":630,"maxHP":1050,
+"oriMP":50,"maxMP":90,
+"oriAttack":500,"maxAttack":950,
+"oriCure":128,"maxCure":150,
+"oriSpeed":70,"maxSpeed":110,
+"oriElement":1,
+"lskill":"火属性攻击、速度变为1.3倍",
+"skill":"将所有光属性珠子变为火属性","skillcost":80,"skillname":"火舞",
+"profile":"能操控火焰的少年，常在沙漠中蒙面舞者的形象出现，以绚烂的舞姿迷惑过往的旅人，趁机劫取钱财。起舞时周围会腾起熊熊烈火，被人视作异象，因而有着“火妖”的称号，但很少有人知其真面目。"
+}

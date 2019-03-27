@@ -1,0 +1,8 @@
+{
+  "name":"robberA",
+  "hp":500,
+  "attack":20,
+  "defense":0,
+  "speed":500,
+  "element":1
+}

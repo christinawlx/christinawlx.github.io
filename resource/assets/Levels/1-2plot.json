@@ -1,0 +1,38 @@
+﻿[
+  {
+    "bg":"bg1-1",
+    "plot":
+    [
+      {"speaker":"","image":[],"pos":[],"text":"    （草丛中突然蹦出两个强盗）"},
+      {"speaker":"强盗","image":[],"pos":[],"text":"    此路是我开，此树是我栽，要想过此路，留下买路财！"}
+    ]
+  },
+  {
+    "bg":"bg1-1",
+    "plot":
+    [
+      {"speaker":"Karine","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    抢钱抢到我头上，你是找死么？"},
+      {"speaker":"强盗们","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    （瑟瑟发抖）饶……饶命！"},
+      {"speaker":"Karine","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    这儿附近除了你们，还有别的强盗么？"},
+      {"speaker":"强盗们","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    应该……应该是没了。"},
+      {"speaker":"Karine","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    你们最近是不是抢了个小孩回去？"},
+      {"speaker":"强盗A","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    是，是，您料事如神，老大还说……"},
+      {"speaker":"强盗B","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    等等，老大说过不让声张的！"},
+      {"speaker":"","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    （砰的一声枪响，强盗B倒在血泊之中）"},
+      {"speaker":"Karine","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    你最好明白现在谁是老大。你们老大说了什么？"},
+      {"speaker":"强盗A","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    我……我明白！老大说，把这个特殊体质的小孩献给老大的老大，一定会得到重赏！"},
+      {"speaker":"Karine","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    带我去你们老大那儿。敢耍什么花招的话……"},
+      {"speaker":"强盗A","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    绝对不敢！我们这就带您去！"},
+      {"speaker":"Karine","image":["KarineChat2"],"pos":[{"x":0,"y":0}],"text":"    走吧，default……喂，你跟着他发什么抖啊？"},
+      {"speaker":"default","image":["KarineChat2"],"pos":[{"x":0,"y":0}],"text":"    呃，你实在是很……有气势。"},
+      {"speaker":"Karine","image":["KarineChat2"],"pos":[{"x":0,"y":0}],"text":"    到底是没见过世面的小鬼，见到死人就害怕了么？"},
+      {"speaker":"default","image":["KarineChat2"],"pos":[{"x":0,"y":0}],"text":"    我……"},
+      {"speaker":"Karine","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    我们这可不是去玩。如果连面对血的勇气都没有，我劝你还是趁早回去。"},
+      {"speaker":"default","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"   只要能救出Charlotte，我什么都不怕！"},
+      {"speaker":"","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    （Karine看着你，怔了片刻，突然叹了口气。）"},
+      {"speaker":"Karine","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    真是令人怀念的勇气。走吧。"},
+      {"speaker":"default","image":[],"pos":[],"text":"    （什么意思？但看Karine的样子，似乎不想多谈……）"}
+    ]
+  }
+]
+

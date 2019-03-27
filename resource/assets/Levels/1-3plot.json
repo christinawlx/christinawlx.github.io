@@ -1,0 +1,18 @@
+﻿[
+  {
+    "bg":"bg1-1",
+    "plot":
+    [
+      {"speaker":"","image":[],"pos":[],"text":"    （强盗指着一条羊肠小道。）"},
+      {"speaker":"强盗","image":[],"pos":[],"text":"    老大就在这边树林里的祭坛旁边。前面都是我们的人，你们带着我进去可能……会被发现。"},
+      {"speaker":"Karine","image":["KarineChat1"],"pos":[{"x":0,"y":0}],"text":"    行了，你就在这儿睡一会儿吧。"},
+      {"speaker":"","image":["KarineChat1"],"pos":[{"x":0,"y":0}],"text":"    （Karine击昏了强盗。）"},
+      {"speaker":"Karine","image":["KarineChat1"],"pos":[{"x":0,"y":0}],"text":"    你跟在我身后，小心点儿，我们随时可能被发现。"},
+      {"speaker":"default","image":["KarineChat1"],"pos":[{"x":0,"y":0}],"text":"    知道了！"},
+      {"speaker":"","image":[],"pos":[],"text":"     （Karine和你在树林里走了一段，被巡逻的强盗发现了踪迹。）"},
+      {"speaker":"强盗","image":[],"pos":[],"text":"    什么人？"},
+      {"speaker":"Karine","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    看来不得不一路杀过去了啊。"}
+    ]
+  }
+]
+

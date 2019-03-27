@@ -1,0 +1,20 @@
+﻿{
+  "character":
+  [
+    {"id":0,"name":"Karine","oriStory":0,"rare":4},
+    {"id":1,"name":"Savino","oriStory":0,"rare":4},
+    {"id":2,"name":"Lance","oriStory":0,"rare":5},
+    {"id":3,"name":"Lokia","oriStory":0,"rare":4},
+    {"id":4,"name":"Mobius","oriStory":0,"rare":4},
+    {"id":5,"name":"Izv","oriStory":0,"rare":4},
+    {"id":6,"name":"Blank","oriStory":0,"rare":4},
+    {"id":7,"name":"Costilla","oriStory":0,"rare":3},
+    {"id":8,"name":"Tatragon","oriStory":0,"rare":4},
+    {"id":9,"name":"Arise","oriStory":0,"rare":3},
+    {"id":10,"name":"Blunt","oriStory":0,"rare":3},
+    {"id":11,"name":"Wheel","oriStory":0,"rare":3},
+    {"id":12,"name":"Gult","oriStory":0,"rare":4},
+    {"id":13,"name":"Hela","oriStory":0,"rare":3},
+    {"id":14,"name":"Esia","oriStory":0,"rare":4}
+  ]
+}

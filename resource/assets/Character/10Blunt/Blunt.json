@@ -1,0 +1,12 @@
+﻿{
+"id":10,
+"name":"Blunt",
+"oriHP":440,"maxHP":880,
+"oriMP":20,"maxMP":30,
+"oriAttack":410,"maxAttack":1290,
+"oriCure":20,"maxCure":50,
+"oriSpeed":10,"maxSpeed":68,
+"oriElement":1,
+"lskill":"火属性攻击力变为1.5倍",
+"skill":"大量击退单体敌人时间闸","skillcost":150,"skillname":"致命冲击",
+"profile":"拥有惊人的怪力，凭此保护着斯塔克沙漠中过路的旅人免受强盗的袭击。喜欢搏击，常以沙漠里的狼群为敌进行格斗练习。"}

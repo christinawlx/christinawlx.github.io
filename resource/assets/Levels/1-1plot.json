@@ -1,0 +1,77 @@
+﻿[
+  {
+    "bg":"bg1-1",
+    "plot":
+    [
+	  {"speaker":"老爷爷","image":[],"pos":[],"text":"    在很久很久以前，索雷亚大陆的创世神分裂成了两面，一面为善良的Angel，一面为邪恶的Legna。Angel热爱人类，Legna却想毁灭世界。两种神格展开了战斗，Angel不敌，失去了大部分创世之力，坠入人间。"},
+	  {"speaker":"老爷爷","image":[],"pos":[],"text":"    幸运的是，Angel得到了人类的帮助。她带领人类攻上天界，与Legna展开了大战。Angel与Legna激战九日九夜，以生命的代价使Legna元气大伤，但还是没能杀死Legna 。被后世称为“弑神者”的英雄将Angel的遗体化 为了无数细小的利刃，贯穿了Legna的身体。Legna没有想到人类竟能拥有杀死他的力量，毫无防备之下被一击致命。"},
+	  {"speaker":"default","image":[],"pos":[],"text":"    弑神者真是太厉害了！我长大以后也要成为像弑神者那样拯救世界的英雄！"},
+	  {"speaker":"Charlotte","image":["CharlotteChat2"],"pos":[{"x":0,"y":0}],"text":"    default的话，一定可以的。"},
+	  {"speaker":"Charlotte","image":["CharlotteChat1"],"pos":[{"x":0,"y":0}],"text":"    但是……现在的世界好像并不需要被拯救啊。Legna邪神……不是已经被封印了么？"},
+	  {"speaker":"default","image":["CharlotteChat1"],"pos":[{"x":0,"y":0}],"text":"    啊啊啊不要把残忍的现实告诉我啦。像这样日复一日在林中采药的生活实在太无聊了，要是没有点幻想的话简直活不下去嘛。"},
+	  {"speaker":"老爷爷","image":["CharlotteChat1"],"pos":[{"x":0,"y":0}],"text":"    不用太丧气。现在这个时代，也不是像表面上那么太平的。你们还记得弑神大战之后的事吧？"},
+	  {"speaker":"default","image":["CharlotteChat1"],"pos":[{"x":0,"y":0}],"text":"    记得啊，弑神者告诉人们，其实Legna还没有死，只是被封印，不过千年之后她的力量就会完全耗尽然后永远消失。"},
+	  {"speaker":"Charlotte","image":["CharlotteChat2"],"pos":[{"x":0,"y":0}],"text":"    说起来现在已经是第950年了呢。再过50年，我们人类就能永绝后患了吧？"},
+	  {"speaker":"老爷爷","image":["CharlotteChat1"],"pos":[{"x":0,"y":0}],"text":"    那可不一定。就在近几十年，大路上出现了企图破坏封印，复活Legna的邪恶组织Hecate。所以想要当英雄的话，你们可以去加入志愿军讨伐Hecate。"},
+	  {"speaker":"老爷爷","image":["CharlotteChat1"],"pos":[{"x":0,"y":0}],"text":"    好了，药材也采得差不多了。我们回村去——"},
+	  {"speaker":"","image":["CharlotteChat1"],"pos":[{"x":0,"y":0}],"text":"    （话音未落，老爷爷的背后突然喷射出鲜血。他直直地向前倒在了地上，断气时脸上犹保持着惊恐的神色。）"},
+	  {"speaker":"强盗头领","image":["CharlotteChat3"],"pos":[{"x":0,"y":0}],"text":"     老东西，听说你要讨伐我们？现在怎么不说话了？"},
+	  {"speaker":"default","image":["CharlotteChat3"],"pos":[{"x":0,"y":0}],"text":"     爷爷！！！"},
+	  {"speaker":"Charlotte","image":["CharlotteChat3"],"pos":[{"x":0,"y":0}],"text":"     你们是……Hecate邪教的人？！"},
+	  {"speaker":"强盗喽啰","image":["CharlotteChat3"],"pos":[{"x":0,"y":0}],"text":"     智者大人给我们的罗盘有反应了！这两个小孩拥有收集Chronos的能力，其中一个还是祭品体质！"},
+	  {"speaker":"强盗头领","image":["CharlotteChat3"],"pos":[{"x":0,"y":0}],"text":"    嘿，这一票可赚大发了！"},
+	  {"speaker":"强盗头领","image":["CharlotteChat3"],"pos":[{"x":0,"y":0}],"text":"    罗盘指示的献祭时间快到了，现在大家分头行动。一半人跟我把祭品送到祭坛，剩下一半人把另一个小孩押回山寨！"},
+	  {"speaker":"","image":[],"pos":[],"text":"    （你眼睁睁看着Charlotte被带往不同的方向。）"},
+	  {"speaker":"","image":[],"pos":[],"text":"    （被带往山寨的路上，你没有放弃挣扎，却一直徒劳无功。）"},
+      {"speaker":"default","image":[],"pos":[],"text":"    你们这群混蛋！放开我！"},
+      {"speaker":"强盗","image":[],"pos":[],"text":"    吵死了小鬼！"},
+      {"speaker":"","image":[],"pos":[],"text":"    （强盗一拳向你揍了过来。）"},
+      {"speaker":"","image":[],"pos":[],"text":"    （你睁开眼，看到刚刚要揍你的那个强盗拳头上多了一个血肉模糊的窟窿。）"},
+      {"speaker":"","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    （你转头，看见不远处站着一个举着枪的金发少女，枪口仍冒着白烟。）"},
+      {"speaker":"众强盗","image":[],"pos":[],"text":"    什么人？"},
+      {"speaker":"金发少女","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    我凭什么告诉你？"},
+      {"speaker":"","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    （话音未落，只见她又开枪放倒了两个强盗。）"},
+      {"speaker":"","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    （众强盗围攻上去，然而少女身手敏捷，出招干脆，近身搏斗也依旧未落下风。）"},
+      {"speaker":"","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    （没过多久，强盗们纷纷落荒而逃。）"},
+      {"speaker":"金发少女","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    这种水平也敢出来混。"},
+      {"speaker":"","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    （少女吹了吹枪口，转身要走。）"},
+      {"speaker":"default","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    等一下！"},
+      {"speaker":"金发少女","image":["KarineChat1"],"pos":[{"x":0,"y":0}],"text":"    道谢就不必了，举手之劳而已。"},
+      {"speaker":"default","image":["KarineChat1"],"pos":[{"x":0,"y":0}],"text":"    但还是非常感谢你救了我。"},
+      {"speaker":"default","image":["KarineChat1"],"pos":[{"x":0,"y":0}],"text":"    另外，我有个不情之请……我的朋友Charlotte也被他们抓走了，可不可以拜托你……"},
+      {"speaker":"金发少女","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    喂喂，我是赏金猎人不是做慈善的，可不是什么闲事都管，要是付报酬的话还可以考虑。"},
+      {"speaker":"default","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    可是……我没有钱。"},
+      {"speaker":"金发少女","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    那就抱歉了，我本来也有任务在身，不能耽搁太久。"},
+	  {"speaker":"金发少女","image":["KarineChat1"],"pos":[{"x":0,"y":0}],"text":"    有缘再见啦！"},
+      {"speaker":"default","image":[],"pos":[],"text":"    等等！虽然我没有钱，可是……"},
+      {"speaker":"default","image":[],"pos":[],"text":"    （村子里的人都已经遇害了，这是是救出Charlotte的唯一机会，一定要抓住，可我真的一无所有，怎么办呢……）"},
+      {"speaker":"default","image":[],"pos":[],"text":"    （对了，之前那群强盗好像说过，我有收集Chronos的能力……）"},
+      {"speaker":"default","image":[],"pos":[],"text":"    我可以给你提供Chronos！"},
+      {"speaker":"金发少女","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    Chronos？！"},
+      {"speaker":"default","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    我不确定，那群强盗是这么说的。我和我朋友都是因为这种体质被抓走，而且村子也被他们……"},
+      {"speaker":"金发少女","image":["KarineChat3"],"pos":[{"x":0,"y":0}],"text":"    ……我帮你，报酬就不用付了。"},
+      {"speaker":"default","image":["KarineChat3"],"pos":[{"x":0,"y":0}],"text":"    诶？！非常感谢，但为什么突然……"},
+      {"speaker":"default","image":["KarineChat3"],"pos":[{"x":0,"y":0}],"text":"    （此时前方又有强盗迎面走来。）"},
+      {"speaker":"金发少女","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    别问那么多了，小心点儿，要开战了。"},
+      {"speaker":"default","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    知道了！"}
+    ]
+  },
+  {
+    "bg":"bg1-1",
+    "plot":
+    [
+      {"speaker":"金发少女","image":["KarineChat1"],"pos":[{"x":0,"y":0}],"text":"    果然有Chronos强化的话战斗会轻松很多。"},
+      {"speaker":"金发少女","image":["KarineChat2"],"pos":[{"x":0,"y":0}],"text":"    你知道你朋友被抓到哪儿去了么？"},
+      {"speaker":"default","image":["KarineChat2"],"pos":[{"x":0,"y":0}],"text":"    听强盗的意思是在祭坛。但我只在传说里听过，并不知道具体在哪儿。"},
+      {"speaker":"金发少女","image":["KarineChat2"],"pos":[{"x":0,"y":0}],"text":"    传说？"},
+      {"speaker":"default","image":["KarineChat2"],"pos":[{"x":0,"y":0}],"text":"    村子里一直流传着一个说法——树林深处有个祭坛，是九百年前用于禁锢邪神Legna的封印之一，不过还从没有人见过。"},
+      {"speaker":"金发少女","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    封印？看起来这群强盗不只为了Chronos。"},
+      {"speaker":"default","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    他们之前自称是Hecate的人。"},
+      {"speaker":"","image":["KarineChat6"],"pos":[{"x":0,"y":0}],"text":"    （金发少女握紧了枪。）"},
+      {"speaker":"金发少女","image":["KarineChat7"],"pos":[{"x":0,"y":0}],"text":"    Hecate么？正好新仇旧恨一起算。我们快走吧！"},
+      {"speaker":"金发少女","image":["KarineChat2"],"pos":[{"x":0,"y":0}],"text":"    对了，我叫卡琳，你怎么称呼？"},
+      {"speaker":"default","image":["KarineChat2"],"pos":[{"x":0,"y":0}],"text":"    default。今后就是同伴了，请多指教！"}
+    ]
+  }
+]
+

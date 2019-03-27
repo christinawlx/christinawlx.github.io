@@ -1,0 +1,16 @@
+﻿{
+  "no1":1,
+  "no2":0,
+  "exp":100,
+  "cexp":50,
+  "energy":40,
+  "bg":"bg2",
+  "bonus":-1,
+  "bonusChance":0,
+  "enemys":
+  [
+    [{"name":"robberA","level":1.5,"element":3},{"name":"robberB","level":1,"element":3},{"name":"robberC","level":1,"element":3},{"name":"robberD","level":1,"element":3},{"name":"robberA","level":1,"element":3}],
+    [{"name":"robberB","level":2,"element":3},{"name":"robberC","level":2,"element":3},{"name":"robberD","level":2,"element":3}],
+    [{"name":"robberE","level":2,"element":3},{"name":"robberB","level":2,"element":3},{"name":"robberC","level":2,"element":3},{"name":"robberD","level":2,"element":3}]
+  ]
+}

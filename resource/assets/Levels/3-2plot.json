@@ -1,0 +1,82 @@
+﻿[
+  {
+    "bg":"bg3",
+    "plot":
+    [
+      {"speaker":"default","image":[],"pos":[],"text":"看，他们在那儿！卡琳坐在那个长发男人旁边的桌子，似乎在观望。"},
+
+      {"speaker":"中年大叔","image":[],"pos":[],"text":"这可真是太巧了，Lance老板您平时神出鬼没的，没想到在这儿遇到了！"},
+	  
+	  {"speaker":"Lance","image":["LanceChat1"],"pos":[{"x":0,"y":0}],"text":"这儿不太平，你最好还是快回帝都。"},
+	  
+	  {"speaker":"中年大叔","image":["LanceChat1"],"pos":[{"x":0,"y":0}],"text":"我这不是来进货嘛，很快就回去，劳您关心了！"},
+	  
+	  {"speaker":"Lance","image":["LanceChat1"],"pos":[{"x":0,"y":0}],"text":"你怎么样我并不关心。只是你死了的话，我还得像五年前一样重新找人接管achohol酒吧，很麻烦。"},
+	  
+	  {"speaker":"中年大叔","image":["LanceChat1"],"pos":[{"x":0,"y":0}],"text":"呃……老板您说话还是这么直接啊。说起来，五年前的血案真是让人心有余悸啊，当年那小姑娘才十三四岁就出手那么狠，也不知道现在会变成什么样。"},
+	   
+	  {"speaker":"Lance","image":["LanceChat1"],"pos":[{"x":0,"y":0}],"text":"……你现在转头看看就知道了。"},
+
+      {"speaker":"Karine","image":["KarineChat7","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"哼，原来你还记得我。"},
+	  
+	  {"speaker":"中年大叔","image":["KarineChat7","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"真……真的是当年通缉令上的……！"},
+	  
+	  {"speaker":"","image":["KarineChat7","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"（卡琳拔出枪对准了长发男人，周围的人见状四散奔逃。）"},
+	  
+	  {"speaker":"Lance","image":["KarineChat7","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"……想杀了我么？像五年前在achohol血案里一样？"},
+	  
+	  {"speaker":"Karine","image":["KarineChat7","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"……不是，五年前的事，我也很后悔。他们虽然不是什么好人，不过罪不至死，你也一样。"},
+	  
+	  {"speaker":"Lance","image":["KarineChat7","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"那你想做什么？"},
+	  
+	  {"speaker":"Karine","image":["KarineChat7","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"我只是想知道为什么。就像刚才，对于你来说，打跑那群恶霸是很容易的事吧？可是你……"},
+	  
+	  {"speaker":"Lance","image":["KarineChat7","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"我没有义务这么做，而且打架很麻烦。"},
+	   
+	  {"speaker":"Karine","image":["KarineChat5","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"那我母亲的事呢？当时放我离开achohol只是一句话的事而已啊……"},
+	   
+	  {"speaker":"Lance","image":["KarineChat5","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"那样你母亲只会更早自杀。"},
+	  
+	  {"speaker":"Karine","image":["KarineChat5","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"可活着对她来说……"},
+	  
+	  {"speaker":"Lance","image":["KarineChat5","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"不错，活着对她是种煎熬。但这世上活在痛苦里的人成千上万，你母亲有什么特殊的么？我帮她不是对其他人不公平？"},
+	  
+	  {"speaker":"Karine","image":["KarineChat7","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"照你的逻辑，难道所有帮助别人的行为都是无意义的？"},
+	  
+	  {"speaker":"Lance","image":["KarineChat7","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"在我看来的确如此。"},
+	  
+	  {"speaker":"Karine","image":["KarineChat6","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"你！"},
+	  
+	  {"speaker":"Lance","image":["KarineChat6","LanceChat1"],"pos":[{"x":-300,"y":0},{"x":300,"y":0}],"text":"我懒得跟你解释，没什么事的话再见了。"},
+	  
+	  
+	  {"speaker":"","image":[],"pos":[],"text":"（卡琳正要追去，突然出现了一群恶霸。）"},
+	  
+	  {"speaker":"恶霸","image":[],"pos":[],"text":"找到了！之前妨碍我们收保护费的就是她！"},
+	  
+	  {"speaker":"Karine","image":["KarineChat6"],"pos":[{"x":0,"y":0}],"text":"你们给我滚开！"},
+	  
+	  {"speaker":"default","image":[],"pos":[],"text":"我们也去帮忙！"},
+	  
+	  {"speaker":"Savino","image":["SavinoChat1"],"pos":[{"x":0,"y":0}],"text":"嗯！"}
+    ]
+  },
+  {
+    "bg":"bg3",
+    "plot":
+    [
+      {"speaker":"Karine","image":["KarineChat5"],"pos":[{"x":0,"y":0}],"text":"……这是我的私事，你们不必跟来了。"},
+	  
+	  {"speaker":"default","image":[],"pos":[],"text":"喂，等等！"},
+	  
+	  {"speaker":"Savino","image":["SavinoChat1"],"pos":[{"x":0,"y":0}],"text":"看上去Karine情绪不太稳定……我们继续追上去吧。"},
+	  
+	  {"speaker":"default","image":["SavinoChat1"],"pos":[{"x":0,"y":0}],"text":"嗯！"},
+	  
+	  {"speaker":"default","image":[],"pos":[],"text":"（从没见过Karine这种样子，不过她以前偶尔会露出悲伤的神色……）"},
+	 
+	  {"speaker":"default","image":[],"pos":[],"text":"（会是因为同一件事么？）"}
+    ]
+  }
+]
+

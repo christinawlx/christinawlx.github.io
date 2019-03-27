@@ -1,0 +1,12 @@
+﻿{
+"id":1,
+"name":"Savino",
+"oriHP":370,"maxHP":920,
+"oriMP":35,"maxMP":85,
+"oriAttack":300,"maxAttack":850,
+"oriCure":160,"maxCure":400,
+"oriSpeed":45,"maxSpeed":90,
+"oriElement":4,
+"lskill":"全体HP上升10%,回复力上升50%",
+"skill":"大量回复HP","skillcost":90,"skillname":"虔诚之奇迹",
+"profile":"外貌清秀、衣着华丽的少年，脾气温和乖巧，乐于助人。很能让人产生亲近感。非常富有却热衷于打工，说是希望用自己的双手挣钱。自称十分崇拜九百多年前的人类英雄“弑神者”，为了寻找弑神者之墓而踏上旅途。"}

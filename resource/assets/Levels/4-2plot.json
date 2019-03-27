@@ -1,0 +1,34 @@
+﻿[
+  {
+    "bg":"bg4",
+    "plot":
+    [
+	  {"speaker":"default","image":["KarineChat7","SavinoChat2","LokiaChat1"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"我们跟你无冤无仇，为什么要加害我们？"},
+	  
+	  {"speaker":"女孩","image":["KarineChat7","SavinoChat2","LokiaChat1"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"我的确不认识你，可既然跟Karine在一起，就只好把你们一起杀掉了呀~"},
+	  
+	  {"speaker":"Karine","image":["KarineChat7","SavinoChat2","LokiaChat1"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"我？"},
+	  
+	  {"speaker":"女孩","image":["KarineChat7","SavinoChat2","LokiaChat1"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"认识我么？我叫Lokia。"},
+	  
+	  {"speaker":"Karine","image":["KarineChat7","SavinoChat2","LokiaChat1"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"……我真的不记得见过你。我们有仇么？"},
+	  
+	  {"speaker":"Lokia","image":["KarineChat7","SavinoChat2","LokiaChat1"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"嘻嘻，你当然没见过我。"},
+	  
+	  {"speaker":"Lokia","image":["KarineChat7","SavinoChat2","LokiaChat1"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"不过你应该还记得，自己五年前在帝都的achohol里做过什么吧？"},
+	  
+	  {"speaker":"Karine","image":["KarineChat7","SavinoChat2","LokiaChat1"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"！！！你难道是……"},
+	  
+	  {"speaker":"Lokia","image":["KarineChat7","SavinoChat2","LokiaChat1"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"是啊，五年前我的父亲在achohol被你杀死了。"},
+	  
+	  {"speaker":"Karine","image":["KarineChat5","SavinoChat2","LokiaChat1"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"……抱歉。"},
+	  
+	  {"speaker":"Lokia","image":["KarineChat5","SavinoChat2","LokiaChat1"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"没什么可抱歉的啦~像我父亲那种流连于achohol花天酒地的混蛋，死了也是活该嘛~"},
+	  
+	  {"speaker":"Lokia","image":["KarineChat5","SavinoChat2","LokiaChat1"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"我可是很崇拜你五年前的事迹呢，Karine。杀光那些让你痛苦的人，不是天经地义的事么？"},
+	  
+	  {"speaker":"Lokia","image":["KarineChat5","SavinoChat2","LokiaChat3"],"pos":[{"x":-400,"y":0},{"x":0,"y":0},{"x":400,"y":0}],"text":"所以，我也要杀掉让我痛苦的你呀~"}
+    ]
+  }
+]
+
