@@ -1,62 +1,347 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-    <meta charset="utf-8">
-    <title>Egret</title>
-    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
-    <meta name="apple-mobile-web-app-capable" content="yes"/>
-    <meta name="full-screen" content="true"/>
-    <meta name="screen-orientation" content="portrait"/>
-    <meta name="x5-fullscreen" content="true"/>
-    <meta name="360-fullscreen" content="true"/>
-    <style>
-        html, body {
-            -ms-touch-action: none;
-            background: #000000;
-            padding: 0;
-            border: 0;
-            margin: 0;
-            height: 100%;
-        }
-    </style>
 
-    <!--这个标签为通过egret提供的第三方库的方式生成的 javascript 文件。删除 modules_files 标签后，库文件加载列表将不会变化，请谨慎操作！-->
-    <!--modules_files_start-->
-	<script egret="lib" src="libs/modules/egret/egret.min.js"></script>
-	<script egret="lib" src="libs/modules/egret/egret.web.min.js"></script>
-	<script egret="lib" src="libs/modules/game/game.min.js"></script>
-	<script egret="lib" src="libs/modules/game/game.web.min.js"></script>
-	<script egret="lib" src="libs/modules/tween/tween.min.js"></script>
-	<script egret="lib" src="libs/modules/res/res.min.js"></script>
-	<script egret="lib" src="libs/modules/particle/particle.min.js"></script>
-	<script egret="lib" src="libs/modules/lean/lean.min.js"></script>
-	<!--modules_files_end-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
 
-    <!--这个标签为不通过egret提供的第三方库的方式使用的 javascript 文件，请将这些文件放在libs下，但不要放在modules下面。-->
-    <!--other_libs_files_start-->
-    <!--other_libs_files_end-->
+  <title>Lingxiao Wang- Personal Website</title>
 
-    <!--这个标签会被替换为项目中所有的 javascript 文件。删除 game_files 标签后，项目文件加载列表将不会变化，请谨慎操作！-->
-    <!--game_files_start-->
-	<script src="main.min.js"></script>
-	<!--game_files_end-->
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+  <!-- Plugin CSS -->
+  <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+
+  <!-- Custom styles for this template -->
+  <link href="css/freelancer.min.css" rel="stylesheet">
+  <style type="text/css">
+  h2 {
+    font-size: 1.2rem;
+}
+  body,td,th {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+  </style>
 </head>
-<body>
 
-    <div style="margin: auto;width: 100%;height: 100%;" class="egret-player"
-         data-entry-class="Main"
-         data-orientation="auto"
-         data-scale-mode="showAll"
-         data-frame-rate="50"
-         data-content-width="1280"
-         data-content-height="720"
-         data-show-paint-rect="false"
-         data-multi-fingered="2"
-         data-show-fps="false" data-show-log="false"
-         data-log-filter="" data-show-fps-style="x:0,y:0,size:30,textColor:0x00c200,bgAlpha:0.9">
+<body id="page-top">
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Lingxiao Wang</a>
+      <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Portfolio</a>
+          </li>
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">About Me</a>
+          </li>
+          <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact">Links</a>
+          </li>
+        </ul>
+      </div>
     </div>
-    <script>
-        egret.runEgret();
-    </script>
+  </nav>
+
+  <!-- Header -->
+  <header class="masthead bg-primary text-white text-center">
+    <div class="container">
+      <img class="img-fluid mb-5 d-block mx-auto" src="img/player3.png" alt="">
+      <h1 class="text-uppercase mb-0">Lingxiao wANG</h1>
+      <hr class="star-light">
+      <h2 class="font-weight-light mb-0">Programmer - Game Designer</h2>
+	  <p>  </p>
+	  <p>E-mail: suyanchristina@gmail.com </p>
+    </div>
+  </header>
+
+  <!-- Portfolio Grid Section -->
+  <section class="portfolio" id="portfolio">
+    <div class="container">
+      <h2 class="text-center text-uppercase text-secondary mb-0">Portfolio</h2>
+      <hr class="star-dark mb-5">
+      <div class="row">
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-1">
+            <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+              <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+				  Where Is My Princess
+			      <p>3D Platform Game</p>
+			  </div>
+            </div>
+            <img class="img-fluid" src="img/portfolio/Frog.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-2">
+            <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+              <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">Breath
+				<p>First-Person Horror Game</p>
+			  </div>
+				
+          </div>
+            <img class="img-fluid" src="img/portfolio/Breath.jpg" alt="">
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-3">
+            <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+              <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">Lost In Eden
+			  <p>First-Person Puzzle Game</p></div>
+            </div>
+            <img class="img-fluid" src="img/portfolio/LIE.jpg" alt="">
+          </a>
+</div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section class="bg-primary text-white mb-0" id="about">
+    <div class="container">
+      <h2 class="text-center text-uppercase text-white">About ME</h2>
+      <hr class="star-light mb-5">
+<div class="row">
+        <div class="col-lg-4 ml-auto col-xl-5 offset-xl-0">
+          <p class="lead">Hi, I am Lingxiao Wang, majoring in Interactive Media and now pursuing my MFA degree at USC. In history I develop games mainly as procramer and designer, but now I also begin to learn art tools such as Maya.<br>
+          </p>
+        </div>
+  <div class="col-lg-4 ml-auto col-xl-5 offset-xl-0">
+    <p class="lead">I really enjoying video editing in my spare time. On one hand, I like the feeling of matching images with rythems.On the other hand, it is fun to  break the exiteed plots and ressemble them to a new story. You can see those fan videos in my Youtube channel .<br>
+    </p>
+  </div>
+	
+        <div class="col-lg-4 mr-auto col-xl-12 text-center">
+			          <p class="lead"></p>
+          <p class="lead">Skills</p>
+          <p class="lead">※Game Engine - Unity, UE4, Cocos2dx</p>
+          <p class="lead">※Code - C#, C++, C, lua</p>
+          <p class="lead"> ※Art - Maya, Photoshop, Premiere&nbsp;</p>
+        </div>
+</div>
+  </section>
+
+  <!-- Contact Section -->
+<section id="contact">
+    <div class="container">
+      <h2 class="text-center text-uppercase text-secondary mb-0">Links</h2>
+      <hr class="star-dark mb-5">
+	 <div class="container">
+      <div class="row">
+        <div class="col-md-4 mb-5 mb-lg-0"> </div>
+        <div class="col-md-4 mb-5 mb-lg-0">
+<ul class="list-inline mb-0 text-center">
+            <li class="list-inline-item">
+              <a class="btn btn-outline-light height=200 btn-social text-center fab fa-fw fa-facebook-f" href="https://www.facebook.com/chris.suyan">
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a class="btn btn-outline-light btn-social text-center fab fa-fw fa-github" href="https://github.com/christinawlx?tab=repositories">
+              </a>
+            </li>
+            <li class="list-inline-item">
+				<a class="btn btn-outline-light btn-social text-center fab fa-fw fa-youtube" href="https://www.youtube.com/channel/UCjneed1DASj9VpwMaFB7QBA?view_as=subscriber">
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-4"> </div>
+      </div>
+    </div>
+</div>
+  </section>
+
+  <!-- Footer -->
+  
+  <div class="copyright py-4 text-center text-white">
+    <div class="container"><small>Lingxiao Wang 2019 - All the projects are non-commercial and not for publish, kuso included</small></div>
+  </div>
+
+  <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+  <div class="scroll-to-top d-lg-none position-fixed ">
+    <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top">
+      <i class="fa fa-chevron-up"></i>
+    </a>
+  </div>
+
+  <!-- Portfolio Modals -->
+
+  <!-- Portfolio Modal 1 -->
+  <div class="portfolio-modal mfp-hide" id="portfolio-modal-1">
+    <div class="portfolio-modal-dialog bg-white">
+      <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+        <i class="fa fa-3x fa-times"></i>
+      </a>
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2 class="text-secondary text-uppercase mb-0">WHERE IS MY PRINCESS</h2>
+			<p>Program/Mechenic Desgin/Puzzle Design</p>
+            <iframe width="720" height="405" src="https://www.youtube.com/embed/wZe2u-pl2eo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <p class="mb-5 text-left"><em>Where Is My Princess</em> is a 3D platform game made with Unity. In the game, players control the&nbsp;protagonist, a "frog", to get over difficulties by using laser to connect to fireflies, in order to collect seven game cartridges and finally meet his prinecess.</p>
+            <p class="mb-5 text-left">Other Credit: <br>
+              Artist/Designer - Shengyu Yao, Rui Feng, Jian Yao<br>
+              Music/Sound Designer - Ruiming Ma </p>
+            <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+              <i class="fa fa-close"></i>
+              Close Project</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Portfolio Modal 2 -->
+  <div class="portfolio-modal mfp-hide" id="portfolio-modal-2">
+    <div class="portfolio-modal-dialog bg-white">
+      <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+        <i class="fa fa-3x fa-times"></i>
+      </a>
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2 class="text-secondary text-uppercase mb-0">bREATH</h2>
+            <p>Program/Project Management</p>
+            <iframe width="720" height="405" src="https://www.youtube.com/embed/jzNuwrr2c58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <p class="mb-5 text-left">In the game <em>Breath</em>, players take an adventure in a foggy, ruined city full of monsters, with only an air gun in their hind. In order to survive in the tough environment, players need to consider how to spend their limited oxygen - supplying breath, making air wall, or flying. The game was made with Unity.<br>
+              <br>
+              Other Credit:<br>
+              Artists - Shengyu Yao, Rui Feng, Jian Yao<br>
+              Program - Sika Zheng<br>
+              Design - Xiaodong Liu </p>
+            <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+              <i class="fa fa-close"></i>
+              Close Project</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Portfolio Modal 3 -->
+  <div class="portfolio-modal mfp-hide" id="portfolio-modal-3">
+    <div class="portfolio-modal-dialog bg-white">
+      <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+        <i class="fa fa-3x fa-times"></i>
+      </a>
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2 class="text-secondary text-uppercase mb-0">Lost in eden </h2>
+            <p>Program/UI Effect Desgin(Old Version)&nbsp; &nbsp;Puzzle Design(New Version)</p>
+            <iframe width="720" height="405" src="https://www.youtube.com/embed/97ABONXZzlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <p class="mb-5 text-left"><em>Lost In Eden </em>is a first person puzzle game made with UE4, where players use their special ability "flashback" to solve puzzles and finally figure out what happened&nbsp; in the past space station, Eden. When players are "flashingback", they do not have collision with other objects and therefore will not trig swithes, which is the base of all the puzzles.<br>
+              <br>
+              I quit this project in order to focus on my bachelor thesis. After that new members joined and the project's&nbsp; name was changed to <em>Cyborg Lab. </em>It<em>&nbsp;</em>is a cool project with 20+ puzzles<em>. </em>In this new project,&nbsp; I designed some puzzles and also edit this trailer.</p>
+            <iframe width="720" height="405" src="https://www.youtube.com/embed/HQbkvVogbNU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			  
+		    <p class="mb-5"></p>
+			  
+            <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+              <i class="fa fa-close"></i>
+              Close Project</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Portfolio Modal 4 -->
+  <div class="portfolio-modal mfp-hide" id="portfolio-modal-4">
+    <div class="portfolio-modal-dialog bg-white">
+      <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+        <i class="fa fa-3x fa-times"></i>
+      </a>
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+            <hr class="star-dark mb-5">
+            <img class="img-fluid mb-5" src="img/portfolio/game.png" alt="">
+            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+            <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+              <i class="fa fa-close"></i>
+              Close Project</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Portfolio Modal 5 -->
+  <div class="portfolio-modal mfp-hide" id="portfolio-modal-5">
+    <div class="portfolio-modal-dialog bg-white">
+      <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+        <i class="fa fa-3x fa-times"></i>
+      </a>
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+            <hr class="star-dark mb-5">
+            <img class="img-fluid mb-5" src="img/portfolio/safe.png" alt="">
+            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+            <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+              <i class="fa fa-close"></i>
+              Close Project</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Portfolio Modal 6 -->
+  <div class="portfolio-modal mfp-hide" id="portfolio-modal-6">
+    <div class="portfolio-modal-dialog bg-white">
+      <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+        <i class="fa fa-3x fa-times"></i>
+      </a>
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+            <hr class="star-dark mb-5">
+            <img class="img-fluid mb-5" src="img/portfolio/submarine.png" alt="">
+            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+            <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+              <i class="fa fa-close"></i>
+              Close Project</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+  <!-- Contact Form JavaScript -->
+  <script src="js/jqBootstrapValidation.js"></script>
+  <script src="js/contact_me.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/freelancer.min.js"></script>
+
 </body>
+
 </html>
